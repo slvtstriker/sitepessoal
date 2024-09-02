@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre - Luan</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Sobre Mim</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="about">
+        <article>
+            <h2>Quem Sou Eu</h2>
+            <p>Meu nome é Luan e estou atualmente estudando Análise e Desenvolvimento de Sistemas. Trabalho na área da saúde e tenho um grande interesse em tecnologia e jogos.</p>
+            <p>Eu gosto de explorar novas tecnologias e estou sempre aprendendo mais sobre desenvolvimento de sistemas. Quando não estou estudando ou trabalhando, você pode me encontrar jogando meus jogos favoritos.</p>
+        </article>
+    </section>
+    <footer>
+        <p>&copy; 2024 Luan</p>
+    </footer>
+</body>
+</html>
